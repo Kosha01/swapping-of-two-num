@@ -1,0 +1,7 @@
+a=int(input("enter a value:"))
+b=int(input("enter a value:"))
+t=a
+a=b
+b=t
+print("value for",a)
+print("value for"b)
